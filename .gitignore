@@ -1,0 +1,3 @@
+*.blend1
+*.blend
+# Keep .glb for 3D web viewing (tracked by LFS)
